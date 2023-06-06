@@ -29,7 +29,7 @@ To implement Huffman coding to compress the data using Python.
 ## Register No: 212222240016
 ### Get the input String
 ```python
-string = '212222240032 gumma dileep kumar'
+string = '212222240016 hanumanth'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
